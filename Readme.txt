@@ -16,7 +16,7 @@ This is my personal portfolio website showcasing my skills, experience, and proj
 - Improved favicon and Apple Touch Icon for branding.
 
 ## 📷 Preview
-![Portfolio Preview](https://developer-shahid.netlify.app/assets/img/portfolio/512x512.png)
+![Portfolio Preview](https://developer-shahid.netlify.app/assets/img/portfolio/android-chrome-512x512.png)
 
 ## 📩 Contact
 ✉️ **Email:** tripates.md@gmail.com  
